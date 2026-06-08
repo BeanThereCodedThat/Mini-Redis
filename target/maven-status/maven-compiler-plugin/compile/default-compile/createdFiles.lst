@@ -1,0 +1,17 @@
+com\miniredis\MiniRedis.class
+com\miniredis\core\RedisException.class
+com\miniredis\types\StringValue.class
+com\miniredis\pubsub\PubSubManager.class
+com\miniredis\core\WrongTypeException.class
+com\miniredis\server\CommandHandler.class
+com\miniredis\core\RedisStore.class
+com\miniredis\persistence\SnapshotManager$SnapshotData.class
+com\miniredis\persistence\AOFWriter.class
+com\miniredis\server\ClientSession.class
+com\miniredis\types\RedisValue.class
+com\miniredis\server\RedisServer.class
+com\miniredis\persistence\SnapshotManager.class
+com\miniredis\core\RedisStore$ValueType.class
+com\miniredis\types\HashValue.class
+com\miniredis\types\ListValue.class
+com\miniredis\server\RespProtocol.class
